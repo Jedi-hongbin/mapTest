@@ -1037,7 +1037,7 @@
     xcode "^3.0.0"
     xml-js "^1.6.11"
 
-"@expo/vector-icons@^10.0.2":
+"@expo/vector-icons@^10.0.0", "@expo/vector-icons@^10.0.2":
   version "10.2.0"
   resolved "https://registry.npm.taobao.org/@expo/vector-icons/download/@expo/vector-icons-10.2.0.tgz#3c70656683a6a873e18efc00bc61fc160a80dc55"
   integrity sha1-PHBlZoOmqHPhjvwAvGH8FgqA3FU=
@@ -2487,13 +2487,6 @@ expand-brackets@^2.1.4:
     regex-not "^1.0.0"
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
-
-expo-ads-admob@~8.2.1:
-  version "8.2.1"
-  resolved "https://registry.npm.taobao.org/expo-ads-admob/download/expo-ads-admob-8.2.1.tgz#55afdbb9986dc2d9d97a67c65e21d880b40bf468"
-  integrity sha1-Va/buZhtwtnZemfGXiHYgLQL9Gg=
-  dependencies:
-    prop-types "^15.6.2"
 
 expo-asset@~8.1.7:
   version "8.1.7"
@@ -4573,6 +4566,11 @@ react-native-gesture-handler@~1.6.0:
     hoist-non-react-statics "^2.3.1"
     invariant "^2.2.4"
     prop-types "^15.7.2"
+
+react-native-maps@0.27.1:
+  version "0.27.1"
+  resolved "https://registry.npm.taobao.org/react-native-maps/download/react-native-maps-0.27.1.tgz#2f10cd417bb2fd938c9e015b1c9b6d9b1a44b97f"
+  integrity sha1-LxDNQXuy/ZOMngFbHJttmxpEuX8=
 
 react-native-paper@^4.0.1:
   version "4.0.1"
